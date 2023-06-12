@@ -1,0 +1,36 @@
+// Variables
+@import 'variables';
+
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import 'fonts';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//fortawesome
+$fa-font-path: $font-path;
+
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+
+
+//animations
+@import '~animate.css/animate.min.css';
+
+@import '~aos/dist/aos.css';
+
+//owl.carousel
+@import '~owl.carousel/dist/assets/owl.carousel.css';
+@import '~owl.carousel/dist/assets/owl.theme.default.css';
+
+//material/elevation
+@import "~@material/elevation/dist/mdc.elevation.min.css";
+
+// select2
+@import '~select2/src/scss/core';
+
+// style
+@import 'style';

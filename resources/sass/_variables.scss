@@ -1,0 +1,44 @@
+//font
+$font-path: '../fonts';
+
+
+
+// Typography
+$font-family-sans-serif: 'Montserrat-Regular', sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #ff0600;
+$orange: #f6993f;
+$yellow: #fdd757;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #001e91;
+$white:#fff;
+
+
+$primary:       #000000 !default;
+$secondary:     #02BBC4 !default;
+$success:       $green !default;
+$info:          #1BDBE9 !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+$light:         #F4F8F7 !default;
+$dark:          #000000 !default;
+
+$primary-dark: #1d428a;
+
+//Card
+$card-border-color: transparent;
+$card-cap-bg: inherit;
+
+$transition:all .75s ease;
+
+// Body
+$body-bg:$white;
+$body-color: #4d4d4d;
